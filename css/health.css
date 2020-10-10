@@ -1,0 +1,77 @@
+
+ body {
+      font-family:  Nunito Sans, sans-serif;
+      line-height: 1.5;
+      color: #1a1a1a;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+  }
+  
+.w3-theme-d5 {color:#fff !important; background-color:#5c8a00 !important}
+  
+  
+#menu{
+	font-size: 16px;
+	padding:30px;
+}
+
+h2{
+color: white;
+}
+.w3-dropdown-content{
+	background:rgba(0,0,0,0.5);min-width: 160px;
+}
+
+
+.w3-dropdown-content ul li a{
+text-decoration: none;text-align: left; padding: 10px; 
+
+}
+
+.w3-dropdown-content ul li {
+text-decoration: none;text-align: left;margin-bottom: 20px;width: 100%;
+}
+
+.w3-dropdown-content ul li a:hover{
+background-color: #ffcc80;
+}
+
+.w3-dropdown-content ul{
+list-style:  none; padding: 0px;margin: 0;
+}
+
+.w3-btn a{
+  text-decoration: none; font-style: normal;
+}
+.w3-container{
+	margin: 0; padding: 0;
+}
+
+#form{
+	width: 40%; margin: auto;
+}
+
+form {
+	width: 100%;
+}
+.heading{
+font-family: 'Comfortaa', cursive; font-size: 200%;
+}
+
+.w3-theme-d2 {color:#fff !important; background-color:#d10b15 !important}
+
+#footer{font-size: 12px; 
+}
+
+@charset "UTF-8";
+@media only screen and (max-width: 600px) {
+
+.heading{
+font-family: 'Comfortaa', cursive; font-size: 140%;
+}
+#form{
+	width: 100%; margin: auto;
+}
+}
+

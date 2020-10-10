@@ -1,0 +1,55 @@
+
+.bodydiv{
+  background-color: black;
+}
+.headtop{
+background-color: red; color: white; font-size: 20px;
+}
+.body{
+    font-family:  Nunito Sans, sans-serif;
+}
+
+h1{
+    color: #fff;border-bottom: 1px dotted #fff;
+}
+
+
+
+ #allpart {
+       background: #fff; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#fff, #f2f2f2); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#fff, #f2f2f2); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#fff, #f2f2f2); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#fff, #f2f2f2); /* Standard syntax (must be last) */
+      font-family:  Nunito Sans, sans-serif;
+      line-height: 1.5;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      font-size: 14px;
+  }
+  
+  #leftmain2{
+          background: rgba(0, 38, 77,0.9);
+  }
+  
+ 
+ #login  form{
+      border:0px solid #fff;
+      background: rgba(0, 38, 77,0.9);
+      
+      /*background: url(images/bg.jpg) repeat-x center 0px;*/
+  }
+  
+   #login p{
+      color: #fff;
+  }
+  
+  #footer{
+      
+  }
+  
+ 
+@media only screen and (max-width: 600px) {
+  
+}

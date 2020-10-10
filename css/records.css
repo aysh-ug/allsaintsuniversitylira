@@ -1,0 +1,90 @@
+
+ body {
+      font-family:  Nunito Sans, sans-serif;
+      line-height: 1.5;
+      color: #fff;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+  }
+.w3-theme-l2 {color:#000 !important; background-color:#f8e779 !important}
+.w3-theme-light {color:#000 !important; background-color:#fdf3f3 !important}
+.w3-theme-d4 {color:#fff !important; background-color:#9e0707 !important}
+
+#menu{
+	font-size: 16px;
+	padding:30px;
+}
+
+h2{
+color: white;
+}
+
+
+h4{
+  
+}
+.w3-dropdown-content{
+	background:rgba(0,0,0,0.5);min-width: 160px;
+}
+
+
+.w3-dropdown-content ul li a{
+text-decoration: none;text-align: left; padding: 10px; 
+
+}
+
+.w3-dropdown-content ul li {
+text-decoration: none;text-align: left;margin-bottom: 20px;width: 100%;
+}
+
+.w3-dropdown-content ul li a:hover{
+background-color: #ffcc80;
+}
+
+.w3-dropdown-content ul{
+list-style:  none; padding: 0px;margin: 0;
+}
+
+.w3-btn a{
+  text-decoration: none; font-style: normal;
+}
+.w3-container{
+	margin: 0; padding: 0;color: #fff;
+}
+.w3-table {
+max-width: 400px;
+}
+#face{
+  width: 200px;
+}
+
+#form{
+	width: 40%; margin: auto;
+}
+
+#footer{
+    color: #bfbfbf;
+}
+
+.heading{
+font-family: 'Comfortaa', cursive; font-size: 150%; color: #ffff80;
+border-bottom: 1px ridge #ff9933; margin-bottom: 50px;
+}
+
+.w3-theme-d2 {color:#fff !important; background-color:#d10b15 !important}
+
+#footer{font-size: 12px;
+}
+
+@charset "UTF-8";
+@media only screen and (max-width: 600px) {
+
+.heading{
+font-family: 'Comfortaa', cursive; font-size: 120%;
+}
+#form{
+	width: 100%; margin: auto;
+}
+}
+
